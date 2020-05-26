@@ -1,0 +1,29 @@
+.outer{
+  width:305px;
+  border:2px solid rgb(245, 28, 28);
+  padding:12px;
+  box-shadow: 6px 6px 2px whitesmoke;
+}
+.lower{
+  width:270px;
+  border:2px solid rgb(156, 25, 25);
+  padding: 17px;
+  margin-top: 5px;
+}
+.des{
+  font-style:italic;
+}
+span{
+  font-weight: bold;
+}
+li{
+  list-style: none;
+}
+ul{
+  padding: 0px;
+  margin: 0px;
+}
+img{
+  width: 302px;
+  height: 200px;
+}
